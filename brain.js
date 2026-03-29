@@ -211,7 +211,6 @@ function FaceRatingApp() {
             ref={fileInputRef}
             type="file"
             accept="image/*"
-            capture="user"
             onChange={handleFileChange}
           />
 
