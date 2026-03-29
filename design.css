@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+img {
+  display: block;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+input[type="file"] {
+  display: none;
+}
