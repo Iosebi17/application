@@ -1,10 +1,10 @@
 {
   "name": "Face Rating App",
   "short_name": "FaceRate",
-  "start_url": "./structure.html",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
+  "background_color": "#020617",
+  "theme_color": "#020617",
   "icons": [
     {
       "src": "icon.png",
